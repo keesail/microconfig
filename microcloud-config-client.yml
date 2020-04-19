@@ -18,8 +18,8 @@ eureka:
     register-with-eureka: false
 
 info:
-  app.name: microcloud-config-client-dev
-  company.name: enjoy
+  app.name: microcloud-config-client-dev111111111
+  company.name: enjoy11111111111
 
 ---
 server:
@@ -36,5 +36,5 @@ eureka:
       defaultZone: http://admin:enjoy@localhost:7301/eureka
     register-with-eureka: false
 info:
-  app.name: microcloud-config-client-dev
-  company.name: enjoy
+  app.name: microcloud-config-client-dev2222222222222
+  company.name: enjoy2222222222222
